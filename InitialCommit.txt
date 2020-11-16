@@ -1,1 +1,2 @@
 Text iz incijalnog commita :)
+Text iz pull requesta :P
